@@ -1,0 +1,28 @@
+name: SpaceSnippets
+favicon: null
+layout_spectrum: 0.20824549184180796
+typography_spectrum: 0.5942673003301024
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4486200506798923
+  lightness: 0.572915131226182
+  saturation: 0.6275080104824156
+  rhythmicContrast: 0.02662779507227242
+purpose: []
